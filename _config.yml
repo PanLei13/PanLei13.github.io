@@ -4,12 +4,12 @@
 baseurl:
 url: https://panlei13.github.io
 date_format: "ordinal"
-title: 个人博客
+title: 潘蕾的个人博客
 subtitle: "智慧改变人生"
 description: "潘蕾的个人博客"
 keywords: 博客, Pan Lei, PanLei13, 潘蕾
-timezone: Asia/Shanghai
 encoding: "utf-8"
+timezone: Asia/Shanghai
 side_bar_repo_limit: 5
 
 # ---------------- #
@@ -18,8 +18,8 @@ side_bar_repo_limit: 5
 author: 潘蕾
 organization: 
 organization_url: 
-github_username: PanLei13
-location: Wuhan, China
+github_username: 潘蕾
+location: 武汉
 email: 2014024663@qq.com
 
 # ---------------- #
